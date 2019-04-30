@@ -1,4 +1,4 @@
-setwd("C:/Users/Ravi Singh/Desktop/data science industry/assignment 3")
+setwd()
 library(shiny)
 library(ggplot2)
 library(caret)
